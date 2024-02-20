@@ -6,6 +6,7 @@
 	"name": "Happy Textures :3",
 	"developer": "Alphalaneous",
 	"description": "Fixes texture pack annoyances",
+	"repository": "https://github.com/Alphalaneous/HappyTextures",
 	"dependencies": [
         {
             "id": "geode.node-ids",
